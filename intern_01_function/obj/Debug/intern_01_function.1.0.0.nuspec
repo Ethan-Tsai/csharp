@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>intern_01_function</id>
+    <version>1.0.0</version>
+    <authors>intern_01_function</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="DotNetZip" version="1.16.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\IMPORTANT\code\c#\csharp\intern_01_function\bin\Debug\net6.0\intern_01_function.runtimeconfig.json" target="lib\net6.0\intern_01_function.runtimeconfig.json" />
+    <file src="D:\IMPORTANT\code\c#\csharp\intern_01_function\bin\Debug\net6.0\intern_01_function.dll" target="lib\net6.0\intern_01_function.dll" />
+  </files>
+</package>
